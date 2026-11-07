@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "id": "Blueprints",
+  "name": "Blueprints",
+  "guid": "jordan.valheim.blueprints",
+  "version": "0.1.0",
+  "author": "Glutoblop",
+  "description": "Mark built pieces with the hammer, save them as a named blueprint, then place the whole thing at once from a Blueprints tab in the hammer menu (full material cost).",
+  "repo": "Glutoblop/Blueprints",
+  "branch": "main",
+  "client_only": true,
+  "files": ["dist/Blueprints.dll"],
+  "install_dir": "BepInEx/plugins/Blueprints",
+  "requires": {
+    "BepInExPack_Valheim": "5.4.2360"
+  },
+  "valheim": {
+    "version": "1.0.21",
+    "network_version": 41,
+    "steam_build": 26249040,
+    "last_tested": "2026-11-07"
+  },
+  "changelog": {
+    "0.1.0": "Initial release: Blueprints tab in the hammer menu, selection tool (click / Shift+click connected), save, rename, delete, and placing a blueprint for its full material cost."
+  }
+}
