@@ -3,7 +3,7 @@
   "id": "Blueprints",
   "name": "Blueprints",
   "guid": "jordan.valheim.blueprints",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Glutoblop",
   "description": "Mark built pieces with the hammer, save them as a named blueprint, then place the whole thing at once from a Blueprints tab in the hammer menu (full material cost).",
   "repo": "Glutoblop/Blueprints",
@@ -21,6 +21,7 @@
     "last_tested": "2026-11-07"
   },
   "changelog": {
+    "0.1.1": "Mod Settings button in the pause menu: change this plugin's settings in game (one tab per plugin).",
     "0.1.0": "Initial release: Blueprints tab in the hammer menu, selection tool (click / Shift+click connected), save, rename, delete, and placing a blueprint for its full material cost."
   }
 }

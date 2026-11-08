@@ -23,7 +23,7 @@ namespace Blueprints
     {
         public const string Guid = "jordan.valheim.blueprints";
         public const string Name = "Blueprints";
-        public const string Version = "0.1.0";
+        public const string Version = "0.1.1";
 
         internal static Plugin Instance;
         internal static ConfigEntry<KeyboardShortcut> SaveKey;
